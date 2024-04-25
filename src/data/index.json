@@ -1,0 +1,81 @@
+{
+    "skills": [
+        {
+            "id": 1,
+            "src": "./img/feather-pen-1.png",
+            "title": "Software Development",
+            "description": "We have experienced Mobile developer proficient in iOS and Android using flutter.Cyber-Dev-Kings has IT experst who have skills in designin, coding, testing and maintaining computer programs or Software systems.We design both mobile and system development.You can call us for your web- development. We are ready to work."
+        
+        },
+        {
+            "id": 2,
+            "src": "./img/tag-1.png",
+            "title": "Cyber-Security",
+            "description": "We have experienced Cyber-Security experts who are willing to work either on office or remote basis. We protect compter system, networks and data form unauthorized access, attacks and damage. We implement measures such as firewalls encryption, antivirus software and access controls. We are ever ready to work.We always ready to work. "
+        },
+        {
+            "id": 3,
+            "src": "./img/feather-pen-2.png",
+            "title": "Graphic Designing",
+            "description": "We also have experienced graphic designers skilled in user coral-draw, figma, UI/UX designs and other field of study that helps in  project-template, banners, flyers, cards etc. We have worked with different companies all around the world.We work on remote and office basis based on the condition you given us. "
+        },
+        {
+            "id": 4,
+            "src": "./img/product-chain-1.png",
+            "title": "Networking",
+            "description": "We have experienced Network Engineers who are have extraordinary skills in PAN(Personal Area Network), LAN(Local Area Network), MAN(Metropolitan Area Network), WAN(Wide Area Network). We help in the transport anad exchange of data between nodes over a shared medium. We are ready to work remotely and in office."
+        }
+    ],
+
+    "portfolio": [
+        {
+            "id": 1,
+            "src": "./img/port-2.jpeg",
+            "title": "TERMINAL REPORT CARDS FOR SERWAA NYARKO GIRLS' SHS ",
+            "description": "We designed report cards for Serwaa Nyarko Girls' Senior High Schols.We got a project as Cyber-Dev Kings was to design and generate terminal report cards for Serwaa Nyarko Girls' Senior High School in Kumasi. We utilized Microsoft Office Word, Excel and mailing to create personalized report cards for the students.",
+            "link": "View In Github"
+        },
+        {
+            "id": 2,
+            "src": "./img/tech-talks.jpeg",
+            "title": "TECH-TALK AT SERWAA NYARKO SHS",
+            "description": "Service Highlight: Inspiring Future Tech Leaders at Serwaa Nyarko Girls' SHS.Our team recently had the privilege of visiting Serwaa Nyarko Girls' Senior High School in Kumasi, Ghana, where we engaged with the vibrant I.T Club during a stimulating Tech Talk session. Our goal was to inspire and empower these young minds with insights into the latest technological trends and innovations",
+            "link": "View In Github"
+        },
+        {
+            "id": 3,
+            "src": "./img/church11-pic.jpg",
+            "title": "DATABASE FOR THE CATHOLIC YOUTH ORGANIZATION",
+            "description": "Database Management System (DBMS) for Catholic Youth Organisation (CYO) of Suame Deanery Project Overview. Cyber-Dev Kings  designed and developed a comprehensive Database Management System (DBMS) for the Catholic Youth Organisation (CYO) of Suame Deanery in Kumasi. The project is divided into two phases, and we have successfully completed Phase One.",
+            "link": "View In Github"
+        }
+        
+    ],
+    "testimonial": [
+        {
+            "id": 1,
+            "count": "5",
+            "src": "./img/avatar-image.png",
+            "description": "I love your accurate time work and your loyalty. I have not encountered any problem ever since I started working with you.I really love your great works and your architects",
+            "author_name": "Evans Nkuah Fayol",
+             "author_designation": "Ghana"
+        },
+        {
+            "id": 1,
+            "count": "4",
+            "src": "./img/avatar-image-1.png",
+            "description": "Your ability to seamlessly blend creativity and technical skills is truly impressive. Your attention to detail, eye for design, and proficiency in frontend technologies make the digital experiences you create truly standout. Your dedication to delivering exceptional user interfaces is inspiring. Keep up the fantastic work!",
+            "author_name": "Samuel Yankson",
+             "author_designation": "Norway"
+        },
+        {
+            "id": 1,
+            "count": "5",
+            "src": "./img/avatar-image-2.png",
+            "description": "Your frontend expertise is exceptional, bringing stunning interfaces to life. Your mastery of HTML, CSS, and JavaScript, combined with your eye for design, sets you apart. Your dedication to seamless user experiences is truly impressive. Keep up the outstanding work!",
+            "author_name": "Glory Carter",
+             "author_designation": "United Kingdom"
+        }
+      
+    ]
+}
